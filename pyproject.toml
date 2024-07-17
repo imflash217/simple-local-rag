@@ -19,6 +19,7 @@ transformers = "4.38.2"
 accelerate = "^0.32.1"
 jupyter = "^1.0.0"
 wheel = "^0.43.0"
+black = {extras = ["jupyter"], version = "^24.4.2"}
 
 
 
