@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "flashrag"
+version = "0.1.0"
+description = ""
+authors = ["Vinay Kumar <12234745+imflash217@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pymupdf = "1.23.26"
+matplotlib = "3.8.3"
+numpy = "1.26.4"
+pandas = "2.2.1"
+requests = "2.31.0"
+sentence-transformers = "2.5.1"
+spacy = "^3.7.5"
+tqdm = "4.66.2"
+transformers = "4.38.2"
+accelerate = "^0.32.1"
+jupyter = "^1.0.0"
+wheel = "^0.43.0"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

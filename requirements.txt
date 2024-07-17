@@ -8,7 +8,5 @@ spacy
 tqdm==4.66.2
 transformers==4.38.2
 accelerate
-bitsandbytes
 jupyter
 wheel
-# flash-attn
