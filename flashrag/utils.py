@@ -1,12 +1,14 @@
 import os
+import pprint
 import re
+import textwrap
 
 import fitz  # load the pymupdf package
 import pandas as pd
 import requests
+from sentence_transformers import SentenceTransformer
 from spacy.lang.en import English
 from tqdm.auto import tqdm
-import pprint
 
 
 def download_pdf(
@@ -99,6 +101,24 @@ def split_list(input_list: list, slice_size: int) -> list[list[str]]:
     ]
 
 
+def get_embedding_model(
+    model_name_or_path: str = "all-mpnet-base-v2", device: str = "cpu"
+):
+    # embedding the sentences
+    embedding_model = SentenceTransformer(
+        model_name_or_path=model_name_or_path, device=device
+    )
+
+    embedding_model.to(device)
+    return embedding_model
+
+
+def print_textwrapped(text, wrap_length=90):
+    wrapped_text = textwrap.fill(text=text, width=wrap_length)
+    print(wrapped_text)
+    return wrapped_text
+
+
 if __name__ == "__main__":
     pdf_path = "human-nutrition-text.pdf"
     num_sentence_chunk_size = 10
@@ -141,8 +161,32 @@ if __name__ == "__main__":
             pages_and_chunks.append(chunk_dict)
 
     df = pd.DataFrame(pages_and_chunks)
-    pages_and_chunks_min_token_len = df[
+    pages_and_chunks_over_min_token_len = df[
         df["chunk_token_count"] > min_token_len_per_chunk
     ].to_dict(orient="records")
 
-    pprint.pprint(pages_and_chunks_min_token_len[:2])
+    embedding_model = get_embedding_model(
+        model_name_or_path="all-mpnet-base-v2", device="cpu"
+    )
+
+    for item in tqdm(pages_and_chunks_over_min_token_len):
+        item["embedding"] = embedding_model.encode(item["sentence_chunk"])
+
+    # advanced/faster batching approach to compute embeddings
+    # text_chunks = [
+    #     item["sentence_chunk"] for item in pages_and_chunks_over_min_token_len
+    # ]
+    # text_chunk_embeddings = embedding_model.encode(
+    #     text_chunks,
+    #     batch_size=2,  # you can use different batch sizes here for speed/performance, I found 32 works well for this use case
+    #     convert_to_tensor=True,
+    # )  # optional to return embeddings as tensor instead of array
+
+    # pprint.pprint(pages_and_chunks_over_min_token_len[:2])
+    text_chunks_and_embeddings_df = pd.DataFrame(pages_and_chunks_over_min_token_len)
+    embeddings_df_save_path = "text_chunks_and_embeddings_df.csv"
+    text_chunks_and_embeddings_df.to_csv(embeddings_df_save_path, index=False)
+
+    # sanity check the saved embeddings
+    text_chunks_and_embedding_df_load = pd.read_csv(embeddings_df_save_path)
+    print(text_chunks_and_embedding_df_load.head())
