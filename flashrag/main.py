@@ -15,7 +15,7 @@ import utils as ux
 import dataloader as dl
 
 if __name__ == "__main__":
-    query = "macronutrients functions"
+    query = "symptoms of pellagra"  # "macronutrients functions"
     pdf_path = "human-nutrition-text.pdf"
     embeddings_df_save_path = "text_chunks_and_embeddings_df.csv"
     num_sentence_chunk_size = 10
@@ -101,12 +101,13 @@ if __name__ == "__main__":
         input_text=query, embedding_model=embedding_model
     )
     print(f"query_embedding.shape = {query_embedding.shape}")
-    top_results_dot_product = ux.get_similarity_score(
+    scores, indices = ux.get_similarity_score(
         query_embedding=query_embedding,
         reference_embeddings=reference_embeddings_reloaded,
+        n_topk=5,
     )
 
-    for score, idx in zip(top_results_dot_product[0], top_results_dot_product[1]):
+    for score, idx in zip(scores, indices):
         print(f"Score: {score:.4f}")
         print(f"Page # {pages_and_chunks_reloaded[idx]["page_number"]}")
         print(

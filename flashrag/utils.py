@@ -121,7 +121,7 @@ def print_textwrapped(text, wrap_length=90):
     return wrapped_text
 
 
-def get_similarity_score(query_embedding, reference_embeddings):
+def get_similarity_score(query_embedding, reference_embeddings, n_topk=5):
     start_time = timer()
     dot_scores = util.dot_score(query_embedding, reference_embeddings)[0]
     end_time = timer()
@@ -130,8 +130,8 @@ def get_similarity_score(query_embedding, reference_embeddings):
         f"Time taken to get scores on {len(reference_embeddings)} reference_embeddings: {end_time-start_time:.5f} seconds."
     )
 
-    top_results_dot_product = torch.topk(dot_scores, k=5)
-    return top_results_dot_product
+    scores, indices = torch.topk(dot_scores, k=n_topk)
+    return scores, indices
 
 
 def get_embeddings(

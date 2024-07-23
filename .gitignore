@@ -1,7 +1,8 @@
 ./local-rag/*
 local-rag/*
 venv/*
+**.pyc
 
-.ipynb_checkpoints/* 
+.ipynb_checkpoints/*
 
 text_chunks_and_embeddings_df.csv
