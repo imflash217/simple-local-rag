@@ -24,4 +24,4 @@ def load_embeddings(
 
     print(f"embeddings.shape = {embeddings.shape}")
     print(f"embeddings.dtype = {embeddings.dtype}")
-    return embeddings
+    return embeddings, pages_and_chunks
