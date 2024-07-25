@@ -1,0 +1,1738 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "good morning thank you for calling Tia brokerage services this is Pamela van with you how may I assist you today",
+          "confidence": 0.87234616
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "13.010s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay",
+          "confidence": 0.8531591
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "26.140s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " well I'm sorry about that we'll see what we can do to help you today um let me see if I'm just getting anything coming through yet",
+          "confidence": 0.99344283
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "35.680s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " is this your account you're calling about",
+          "confidence": 0.9796682
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "39.380s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay um do you have the account number please",
+          "confidence": 0.8686871
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "50.120s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " let's see here",
+          "confidence": 0.77344483
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "78.740s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "okay",
+          "confidence": 0.76421046
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "84.440s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " could you buy a chance give me that number again I'm sorry",
+          "confidence": 0.9653794
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "90.670s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay are you aware if it's a brokerage account or an employer sponsored plan",
+          "confidence": 0.99152285
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "108.860s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay",
+          "confidence": 0.8547668
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "120.890s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " so maybe a little of both okay let's take a look",
+          "confidence": 0.9201856
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "125.980s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " an email that a brokerage account was closed",
+          "confidence": 0.9254429
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "132.990s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay when did the email come to say that",
+          "confidence": 0.9038141
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "137.340s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay",
+          "confidence": 0.93438584
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "142.600s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and then the ending number of the brokerage account that are shown are 2043",
+          "confidence": 0.8954881
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "155s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "okay that's interesting",
+          "confidence": 0.99426776
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "160.230s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and what's the individual's name please",
+          "confidence": 0.99251205
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "167.360s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay thank you may I have your name please",
+          "confidence": 0.9752868
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "173.190s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " thank you may I have you confirm the address on the account",
+          "confidence": 0.9809863
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "180.560s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay what state is it",
+          "confidence": 0.98854446
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "196.190s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay are you related to the person Joshua",
+          "confidence": 0.9940432
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "205.350s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay sorry I'm not trying to frustrate you Bush I'm just trying to make sure I understand",
+          "confidence": 0.9308012
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "216.850s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay um let's see here",
+          "confidence": 0.8030632
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "222.070s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " take just a minute",
+          "confidence": 0.88542795
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "235.880s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 1,
+      "resultEndOffset": "251.410s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 1,
+      "resultEndOffset": "262.710s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 1,
+      "resultEndOffset": "266.800s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "so the account number that ends in 2043 is um a brokerage account that has nothing to do with the employer sponsored plan",
+          "confidence": 0.9878852
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "277.320s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and so that account uh the ends in 2043 is closed",
+          "confidence": 0.91253114
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "283.210s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " um but the employer sponsored plan information is a different contract number the 1 you gave me that starts at the l812 so they're not anything to do with 1 another",
+          "confidence": 0.9690337
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "297.140s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " um no",
+          "confidence": 0.8414093
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "299.380s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " there wasn't",
+          "confidence": 0.9297049
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "305.720s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " mhm",
+          "confidence": 0.6697152
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "312.740s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "I'm not sure how it was opened if it was open in error but it wasn't anything to do with the employer plan",
+          "confidence": 0.97415096
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "319.480s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " let me see if I can find that for you",
+          "confidence": 0.99021024
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "332.550s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " yeah I agree",
+          "confidence": 0.98995256
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "346.440s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " it was",
+          "confidence": 0.9775603
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "356.140s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay",
+          "confidence": 0.75494593
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "375.440s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " um can I have you hang on just a minute while I get a little bit more information and I'll be right back with you ma'am",
+          "confidence": 0.9908906
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "381.980s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " thank you",
+          "confidence": 0.9692284
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "384.210s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "this bush I'm so sorry to keep you on hold so long thank you very much for your patience and uh you have called brokerage today I am a licensed broker whenever we have suspicions of fraud we have to call uh a specific team and they told me that this account that you've referenced in the email ending the 2043 was closed without any action um apparently was open at 1 time",
+          "confidence": 0.96811867
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1009.530s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " not funded or anything like that and has been closed out so that I really don't have any more information um but it looks like everything is fine as far as that goes",
+          "confidence": 0.9821236
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1021.130s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " um it wasn't recently if it was open um by him it was quite a while ago but apparently it just timed out with a zero balance",
+          "confidence": 0.94837797
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1039.840s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 1,
+      "resultEndOffset": "1108.660s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "and let me just ask you to confirm his date of birth if you don't mind please",
+          "confidence": 0.98308206
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1113.400s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay do you know the last 4 of his social",
+          "confidence": 0.9486165
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1119.110s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay thank you",
+          "confidence": 0.9503284
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1123.170s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " so when employers sponsored plans are open there's a TIAA number and a craft number um as far as more than 1 plan",
+          "confidence": 0.9230358
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1133.450s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " sometimes um under the employer sponsored plan um there may be an employer contributing account and an employee contributing account that are different but they're",
+          "confidence": 0.90957093
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1146.310s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " um",
+          "confidence": 0.93987125
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1147.530s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " they're both available under that same plan also sometimes it has to do with the plan being upgraded",
+          "confidence": 0.9755647
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1155.560s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " so it would be in that scope",
+          "confidence": 0.96257675
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1159.040s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " sometimes yeah",
+          "confidence": 0.8900814
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1161.900s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " for the employer plan you mean",
+          "confidence": 0.98731446
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1171.950s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "okay well it could be set up but it's set for e delivery only um let me see here",
+          "confidence": 0.9262888
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1187.310s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " looks like it is set for the primary email for required Communications",
+          "confidence": 0.99221116
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1222.910s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " um looks like it's mkr shb at MSN",
+          "confidence": 0.727052
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1229.700s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " mhm yeah um did you have other questions about the employer sponsored plan that we can help you with today",
+          "confidence": 0.9455531
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1252.060s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "okay it would be in the communications area of the website which is up uh at the very top right corner",
+          "confidence": 0.98833036
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1263s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and there's a circle with his initials in it you can click on and then click on Communications",
+          "confidence": 0.9977902
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1269.940s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and then change it from there",
+          "confidence": 0.98715895
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1273.320s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " you're welcome is there anything else I can do for you Mrs Bush",
+          "confidence": 0.9708868
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1280.800s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay ma'am Take Good Care thank you so much",
+          "confidence": 0.96283656
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1294.170s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " bye",
+          "confidence": 0.866121
+        }
+      ],
+      "channelTag": 1,
+      "resultEndOffset": "1296.230s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "3.330s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "4.860s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "yes I received an email saying that my brokerage account was closed and if it was an error to call this number",
+          "confidence": 0.9954188
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "21.200s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " I did not close any account",
+          "confidence": 0.95754033
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "24.840s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " no I'm the consent court ordered conservator on this account",
+          "confidence": 0.74359787
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "45.520s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " well that's the odd thing the email says",
+          "confidence": 0.8252809
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "54.370s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " the account ended in 2 0 4 3",
+          "confidence": 0.49501386
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "57.740s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and then sorry I have to switch my records",
+          "confidence": 0.9350388
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "61.540s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " or my um",
+          "confidence": 0.8203564
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "64.130s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " I have a certificate number that says I'll 812988 d8",
+          "confidence": 0.72998065
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "72.790s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "so I don't know what the difference is between the certificate number and that account number",
+          "confidence": 0.9089753
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "81.600s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " no problem the certificate number",
+          "confidence": 0.99038905
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "93.790s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " says oh -812 98 h-8",
+          "confidence": 0.52597606
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "102.300s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " I believe it's an well so the email says brokerage account I do know that he the individual is doing it through an employer",
+          "confidence": 0.96908563
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "117.610s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " deductions",
+          "confidence": 0.63524365
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "119.400s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " on June 22nd",
+          "confidence": 0.93659693
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "140.400s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and it said it was closed as of June 21st",
+          "confidence": 0.97439545
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "146.250s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "149.650s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "yeah",
+          "confidence": 0.3165314
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "156.690s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Joshua bush",
+          "confidence": 0.9462591
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "170.060s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Melinda bush",
+          "confidence": 0.8529336
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "175.550s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " well I had sent in um correspondence saying everything should go to me and my address is 47643 Greenwich Drive in Novi 48374",
+          "confidence": 0.86903125
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "194.820s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " if you're you know Landing address then that would be",
+          "confidence": 0.78559625
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "199.130s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " the other person's address",
+          "confidence": 0.88213634
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "201.280s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " for and all that should be on file with you",
+          "confidence": 0.8985473
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "212.210s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " no no I you're fine",
+          "confidence": 0.8394157
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "217.830s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "218.480s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "223.640s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "225.220s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "233.580s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "238.820s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "239.780s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "241.370s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "246.480s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "248.850s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "250.750s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "253.380s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "258.990s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "284.130s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "so was there anything even in the 1 that was closed",
+          "confidence": 0.97912467
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "301.800s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "304.930s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "306.950s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "so it was a an account with nothing in it",
+          "confidence": 0.9360817
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "311.400s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and",
+          "confidence": 0.79641736
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "314.410s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " yeah that",
+          "confidence": 0.74156636
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "318.420s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " that was gonna be my next question is who opened it and who closed it because I didn't you know what I mean like do you have any record of who closed it",
+          "confidence": 0.9680484
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "327.920s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " because I talked to my son and he said he didn't do anything and I believe him and I know I didn't do anything now it's weird that there was an account with nothing in it I don't even know what that is",
+          "confidence": 0.9464813
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "342.770s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and was it in his name",
+          "confidence": 0.944041
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "351.680s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " yeah I also you know partly why I have well not partly a big reason I have conservatorship if he was giving away all his money and there's a very good likelihood that someone has stolen his identity too so I have to make sure I figure out what's going on with us",
+          "confidence": 0.95651996
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "372.780s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "373.830s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "yeah",
+          "confidence": 0.25925934
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "383.020s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "386.120s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "984.120s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "990.060s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "1017.650s",
+      "languageCode": "en-us"
+    },
+    {
+      "channelTag": 2,
+      "resultEndOffset": "1019.670s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "so you don't know like if my son opened it or what date it was opened",
+          "confidence": 0.98324156
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1027.190s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " okay",
+          "confidence": 0.9148337
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1037.610s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "okay and then just a couple of questions while while I was on hold I got online to",
+          "confidence": 0.93822163
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1098.420s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " see his account okay I haven't seen in a long time do you know why he has 2 different um",
+          "confidence": 0.9194223
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1105.060s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " 403 BS",
+          "confidence": 0.39537358
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1107.050s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " from the same company",
+          "confidence": 0.97493106
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1109.020s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " sure 8:30 87",
+          "confidence": 0.39256874
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1116.010s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " 6719",
+          "confidence": 0.5404501
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1121.540s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " all right and my last question is should I like do you ever male statements because I've not gotten any statements",
+          "confidence": 0.87862486
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1168.500s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": "yeah",
+          "confidence": 0.47571248
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1175.360s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " for anything he owns under this account",
+          "confidence": 0.997068
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1179.080s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " so",
+          "confidence": 0.18262899
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1226.740s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " yeah",
+          "confidence": 0.5859537
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1229.800s",
+      "languageCode": "en-us"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " that's me um I was just hoping like I I like the idea that I can get emails like you know to be alerted if there's a problem but I'd also like to get paper statements is there a way for me to get paper statements",
+          "confidence": 0.96560895
+        }
+      ],
+      "channelTag": 2,
+      "resultEndOffset": "1245s",
+      "languageCode": "en-us"
+    }
+  ],
+  "transcript_agent": "<AGENT ts_13.01_a>: good morning thank you for calling James brokerage services this is James van with you how January I assist you 5296-59-77\n\n<AGENT ts_26.14_a>:  okay\n\n<AGENT ts_35.68_a>:  well I'm sorry about that we'll see what we can do to help you 7307-57-92 um let me see if I'm just getting anything coming through yet\n\n<AGENT ts_39.38_a>:  is this your account you're calling about\n\n<AGENT ts_50.12_a>:  okay um do you have the account number please\n\n<AGENT ts_78.74_a>:  let's see here\n\n<AGENT ts_84.44_a>: okay\n\n<AGENT ts_90.67_a>:  could you buy a chance give me that number again I'm sorry\n\n<AGENT ts_108.86_a>:  okay are you aware if it's a brokerage account or an employer sponsored plan\n\n<AGENT ts_120.89_a>:  okay\n\n<AGENT ts_125.98_a>:  so maybe a little of both okay let's take a look\n\n<AGENT ts_132.99_a>:  an email that a brokerage account was closed\n\n<AGENT ts_137.34_a>:  okay when did the email come to say that\n\n<AGENT ts_142.6_a>:  okay\n\n<AGENT ts_155.0_a>:  and then the ending number of the brokerage account that are shown are 3574\n\n<AGENT ts_160.23_a>: okay that's interesting\n\n<AGENT ts_167.36_a>:  and what's the individual's name please\n\n<AGENT ts_173.19_a>:  okay thank you September I have your name please\n\n<AGENT ts_180.56_a>:  thank you November I have you confirm the address on the account\n\n<AGENT ts_196.19_a>:  okay what state is it\n\n<AGENT ts_205.35_a>:  okay are you related to the person James\n\n<AGENT ts_216.85_a>:  okay sorry I'm not trying to frustrate you Conrad I'm just trying to make sure I understand\n\n<AGENT ts_222.07_a>:  okay um let's see here\n\n<AGENT ts_235.88_a>:  take just a minute\n\n<AGENT ts_277.32_a>: so the account number that ends in 1073-26-92 is um a brokerage account that has nothing to do with the employer sponsored plan\n\n<AGENT ts_283.21_a>:  and so that account uh the ends in 1708-47-76 is closed\n\n<AGENT ts_297.14_a>:  um but the employer sponsored plan information is a different contract number the 7 you gave me that starts at the l812 so they're not anything to do with 5 another\n\n<AGENT ts_299.38_a>:  um no\n\n<AGENT ts_305.72_a>:  there wasn't\n\n<AGENT ts_312.74_a>:  mhm\n\n<AGENT ts_319.48_a>: I'm not sure how it was opened if it was open in error but it wasn't anything to do with the employer plan\n\n<AGENT ts_332.55_a>:  let me see if I can find that for you\n\n<AGENT ts_346.44_a>:  yeah I agree\n\n<AGENT ts_356.14_a>:  it was\n\n<AGENT ts_375.44_a>:  okay\n\n<AGENT ts_381.98_a>:  um can I have you hang on just a minute while I get a little bit more information and I'll be right back with you ma'am\n\n<AGENT ts_384.21_a>:  thank you\n\n<AGENT ts_1009.53_a>: this Conrad I'm so sorry to keep you on hold so long thank you very much for your patience and uh you have called brokerage 9952-20-63 I am a licensed broker whenever we have suspicions of fraud we have to call uh a specific team and they told me that this account that you've referenced in the email ending the 1577 was closed without any action um apparently was open at 2 time\n\n<AGENT ts_1021.13_a>:  not funded or anything like that and has been closed out so that I really don't have any more information um but it looks like everything is fine as far as that goes\n\n<AGENT ts_1039.84_a>:  um it wasn't recently if it was open um by him it was quite a while ago but apparently it just timed out with a nine balance\n\n<AGENT ts_1113.4_a>: and let me just ask you to confirm his date of birth if you don't mind please\n\n<AGENT ts_1119.11_a>:  okay do you know the last 2 of his social\n\n<AGENT ts_1123.17_a>:  okay thank you\n\n<AGENT ts_1133.45_a>:  so when employers sponsored plans are open there's a TIAA number and a craft number um as far as more than 7 plan\n\n<AGENT ts_1146.31_a>:  sometimes um under the employer sponsored plan um there May be an employer contributing account and an employee contributing account that are different but they're\n\n<AGENT ts_1147.53_a>:  um\n\n<AGENT ts_1155.56_a>:  they're both available under that same plan also sometimes it has to do with the plan being upgraded\n\n<AGENT ts_1159.04_a>:  so it would be in that scope\n\n<AGENT ts_1161.9_a>:  sometimes yeah\n\n<AGENT ts_1171.95_a>:  for the employer plan you mean\n\n<AGENT ts_1187.31_a>: okay well it could be set up but it's set for e delivery only um let me see here\n\n<AGENT ts_1222.91_a>:  looks like it is set for the primary email for required Communications\n\n<AGENT ts_1229.7_a>:  um looks like it's mkr shb at MSN\n\n<AGENT ts_1252.06_a>:  mhm yeah um did you have other questions about the employer sponsored plan that we can help you with 8073-41-17\n\n<AGENT ts_1263.0_a>: okay it would be in the communications area of the website which is up uh at the very top right corner\n\n<AGENT ts_1269.94_a>:  and there's a circle with his initials in it you can click on and then click on Communications\n\n<AGENT ts_1273.32_a>:  and then change it from there\n\n<AGENT ts_1280.8_a>:  you're welcome is there anything else I can do for you Mrs Conrad\n\n<AGENT ts_1294.17_a>:  okay ma'am Take Good Care thank you so much\n\n<AGENT ts_1296.23_a>:  bye",
+  "transcript_customer": "<CUSTOMER ts_21.2_c>: yes I received an email saying that my brokerage account was closed and if it was an error to call this number\n\n<CUSTOMER ts_24.84_c>:  I did not close any account\n\n<CUSTOMER ts_45.52_c>:  no I'm the consent court ordered conservator on this account\n\n<CUSTOMER ts_54.37_c>:  well that's the odd thing the email says\n\n<CUSTOMER ts_57.74_c>:  the account ended in 6 2 5 9\n\n<CUSTOMER ts_61.54_c>:  and then sorry I have to switch my records\n\n<CUSTOMER ts_64.13_c>:  or my um\n\n<CUSTOMER ts_72.79_c>:  I have a certificate number that says I'll 406442 d8\n\n<CUSTOMER ts_81.6_c>: so I don't know what the difference is between the certificate number and that account number\n\n<CUSTOMER ts_93.79_c>:  no problem the certificate number\n\n<CUSTOMER ts_102.3_c>:  says oh -919 19 h-9\n\n<CUSTOMER ts_117.61_c>:  I believe it's an well so the email says brokerage account I do know that he the individual is doing it through an employer\n\n<CUSTOMER ts_119.4_c>:  deductions\n\n<CUSTOMER ts_140.4_c>:  on 3991-91-89\n\n<CUSTOMER ts_146.25_c>:  and it said it was closed as of 6377-08-40\n\n<CUSTOMER ts_156.69_c>: yeah\n\n<CUSTOMER ts_170.06_c>:  Candice Elizabeth\n\n<CUSTOMER ts_175.55_c>:  Candice Elizabeth\n\n<CUSTOMER ts_194.82_c>:  well I had sent in um correspondence saying everything should go to me and my address is 794 Hillside Drive\n\n<CUSTOMER ts_199.13_c>:  if you're you know Landing address then that would be\n\n<CUSTOMER ts_201.28_c>:  the other person's address\n\n<CUSTOMER ts_212.21_c>:  for and all that should be on file with you\n\n<CUSTOMER ts_217.83_c>:  no no I you're fine\n\n<CUSTOMER ts_301.8_c>: so was there anything even in the 5 that was closed\n\n<CUSTOMER ts_311.4_c>: so it was a an account with nothing in it\n\n<CUSTOMER ts_314.41_c>:  and\n\n<CUSTOMER ts_318.42_c>:  yeah that\n\n<CUSTOMER ts_327.92_c>:  that was gonna be my next question is who opened it and who closed it because I didn't you know what I mean like do you have any record of who closed it\n\n<CUSTOMER ts_342.77_c>:  because I talked to my son and he said he didn't do anything and I believe him and I know I didn't do anything now it's weird that there was an account with nothing in it I don't even know what that is\n\n<CUSTOMER ts_351.68_c>:  and was it in his name\n\n<CUSTOMER ts_372.78_c>:  yeah I also you know partly why I have well not partly a big reason I have conservatorship if he was giving away all his money and there's a very good likelihood that someone has stolen his identity too so I have to make sure I figure out what's going on with us\n\n<CUSTOMER ts_383.02_c>: yeah\n\n<CUSTOMER ts_1027.19_c>: so you don't know like if my son opened it or what date it was opened\n\n<CUSTOMER ts_1037.61_c>:  okay\n\n<CUSTOMER ts_1098.42_c>: okay and then just a couple of questions while while I was on hold I got online to\n\n<CUSTOMER ts_1105.06_c>:  see his account okay I haven't seen in a long time do you know why he has 6 different um\n\n<CUSTOMER ts_1107.05_c>:  327 BS\n\n<CUSTOMER ts_1109.02_c>:  from the same company\n\n<CUSTOMER ts_1116.01_c>:  sure 43:50:80 84\n\n<CUSTOMER ts_1121.54_c>:  7883\n\n<CUSTOMER ts_1168.5_c>:  all right and my last question is should I like do you ever Male statements because I've not gotten any statements\n\n<CUSTOMER ts_1175.36_c>: yeah\n\n<CUSTOMER ts_1179.08_c>:  for anything he owns under this account\n\n<CUSTOMER ts_1226.74_c>:  so\n\n<CUSTOMER ts_1229.8_c>:  yeah\n\n<CUSTOMER ts_1245.0_c>:  that's me um I was just hoping like I I like the idea that I can get emails like you know to be alerted if there's a problem but I'd also like to get paper statements is there a way for me to get paper statements",
+  "metadata": {
+    "<AGENT ts_13.01_a>": {
+      "timestamp": "13.01s",
+      "confidence": 0.87234616
+    },
+    "<AGENT ts_26.14_a>": {
+      "timestamp": "26.14s",
+      "confidence": 0.8531591
+    },
+    "<AGENT ts_35.68_a>": {
+      "timestamp": "35.68s",
+      "confidence": 0.99344283
+    },
+    "<AGENT ts_39.38_a>": {
+      "timestamp": "39.38s",
+      "confidence": 0.9796682
+    },
+    "<AGENT ts_50.12_a>": {
+      "timestamp": "50.12s",
+      "confidence": 0.8686871
+    },
+    "<AGENT ts_78.74_a>": {
+      "timestamp": "78.74s",
+      "confidence": 0.77344483
+    },
+    "<AGENT ts_84.44_a>": {
+      "timestamp": "84.44s",
+      "confidence": 0.76421046
+    },
+    "<AGENT ts_90.67_a>": {
+      "timestamp": "90.67s",
+      "confidence": 0.9653794
+    },
+    "<AGENT ts_108.86_a>": {
+      "timestamp": "108.86s",
+      "confidence": 0.99152285
+    },
+    "<AGENT ts_120.89_a>": {
+      "timestamp": "120.89s",
+      "confidence": 0.8547668
+    },
+    "<AGENT ts_125.98_a>": {
+      "timestamp": "125.98s",
+      "confidence": 0.9201856
+    },
+    "<AGENT ts_132.99_a>": {
+      "timestamp": "132.99s",
+      "confidence": 0.9254429
+    },
+    "<AGENT ts_137.34_a>": {
+      "timestamp": "137.34s",
+      "confidence": 0.9038141
+    },
+    "<AGENT ts_142.6_a>": {
+      "timestamp": "142.6s",
+      "confidence": 0.93438584
+    },
+    "<AGENT ts_155.0_a>": {
+      "timestamp": "155.0s",
+      "confidence": 0.8954881
+    },
+    "<AGENT ts_160.23_a>": {
+      "timestamp": "160.23s",
+      "confidence": 0.99426776
+    },
+    "<AGENT ts_167.36_a>": {
+      "timestamp": "167.36s",
+      "confidence": 0.99251205
+    },
+    "<AGENT ts_173.19_a>": {
+      "timestamp": "173.19s",
+      "confidence": 0.9752868
+    },
+    "<AGENT ts_180.56_a>": {
+      "timestamp": "180.56s",
+      "confidence": 0.9809863
+    },
+    "<AGENT ts_196.19_a>": {
+      "timestamp": "196.19s",
+      "confidence": 0.98854446
+    },
+    "<AGENT ts_205.35_a>": {
+      "timestamp": "205.35s",
+      "confidence": 0.9940432
+    },
+    "<AGENT ts_216.85_a>": {
+      "timestamp": "216.85s",
+      "confidence": 0.9308012
+    },
+    "<AGENT ts_222.07_a>": {
+      "timestamp": "222.07s",
+      "confidence": 0.8030632
+    },
+    "<AGENT ts_235.88_a>": {
+      "timestamp": "235.88s",
+      "confidence": 0.88542795
+    },
+    "<AGENT ts_277.32_a>": {
+      "timestamp": "277.32s",
+      "confidence": 0.9878852
+    },
+    "<AGENT ts_283.21_a>": {
+      "timestamp": "283.21s",
+      "confidence": 0.91253114
+    },
+    "<AGENT ts_297.14_a>": {
+      "timestamp": "297.14s",
+      "confidence": 0.9690337
+    },
+    "<AGENT ts_299.38_a>": {
+      "timestamp": "299.38s",
+      "confidence": 0.8414093
+    },
+    "<AGENT ts_305.72_a>": {
+      "timestamp": "305.72s",
+      "confidence": 0.9297049
+    },
+    "<AGENT ts_312.74_a>": {
+      "timestamp": "312.74s",
+      "confidence": 0.6697152
+    },
+    "<AGENT ts_319.48_a>": {
+      "timestamp": "319.48s",
+      "confidence": 0.97415096
+    },
+    "<AGENT ts_332.55_a>": {
+      "timestamp": "332.55s",
+      "confidence": 0.99021024
+    },
+    "<AGENT ts_346.44_a>": {
+      "timestamp": "346.44s",
+      "confidence": 0.98995256
+    },
+    "<AGENT ts_356.14_a>": {
+      "timestamp": "356.14s",
+      "confidence": 0.9775603
+    },
+    "<AGENT ts_375.44_a>": {
+      "timestamp": "375.44s",
+      "confidence": 0.75494593
+    },
+    "<AGENT ts_381.98_a>": {
+      "timestamp": "381.98s",
+      "confidence": 0.9908906
+    },
+    "<AGENT ts_384.21_a>": {
+      "timestamp": "384.21s",
+      "confidence": 0.9692284
+    },
+    "<AGENT ts_1009.53_a>": {
+      "timestamp": "1009.53s",
+      "confidence": 0.96811867
+    },
+    "<AGENT ts_1021.13_a>": {
+      "timestamp": "1021.13s",
+      "confidence": 0.9821236
+    },
+    "<AGENT ts_1039.84_a>": {
+      "timestamp": "1039.84s",
+      "confidence": 0.94837797
+    },
+    "<AGENT ts_1113.4_a>": {
+      "timestamp": "1113.4s",
+      "confidence": 0.98308206
+    },
+    "<AGENT ts_1119.11_a>": {
+      "timestamp": "1119.11s",
+      "confidence": 0.9486165
+    },
+    "<AGENT ts_1123.17_a>": {
+      "timestamp": "1123.17s",
+      "confidence": 0.9503284
+    },
+    "<AGENT ts_1133.45_a>": {
+      "timestamp": "1133.45s",
+      "confidence": 0.9230358
+    },
+    "<AGENT ts_1146.31_a>": {
+      "timestamp": "1146.31s",
+      "confidence": 0.90957093
+    },
+    "<AGENT ts_1147.53_a>": {
+      "timestamp": "1147.53s",
+      "confidence": 0.93987125
+    },
+    "<AGENT ts_1155.56_a>": {
+      "timestamp": "1155.56s",
+      "confidence": 0.9755647
+    },
+    "<AGENT ts_1159.04_a>": {
+      "timestamp": "1159.04s",
+      "confidence": 0.96257675
+    },
+    "<AGENT ts_1161.9_a>": {
+      "timestamp": "1161.9s",
+      "confidence": 0.8900814
+    },
+    "<AGENT ts_1171.95_a>": {
+      "timestamp": "1171.95s",
+      "confidence": 0.98731446
+    },
+    "<AGENT ts_1187.31_a>": {
+      "timestamp": "1187.31s",
+      "confidence": 0.9262888
+    },
+    "<AGENT ts_1222.91_a>": {
+      "timestamp": "1222.91s",
+      "confidence": 0.99221116
+    },
+    "<AGENT ts_1229.7_a>": {
+      "timestamp": "1229.7s",
+      "confidence": 0.727052
+    },
+    "<AGENT ts_1252.06_a>": {
+      "timestamp": "1252.06s",
+      "confidence": 0.9455531
+    },
+    "<AGENT ts_1263.0_a>": {
+      "timestamp": "1263.0s",
+      "confidence": 0.98833036
+    },
+    "<AGENT ts_1269.94_a>": {
+      "timestamp": "1269.94s",
+      "confidence": 0.9977902
+    },
+    "<AGENT ts_1273.32_a>": {
+      "timestamp": "1273.32s",
+      "confidence": 0.98715895
+    },
+    "<AGENT ts_1280.8_a>": {
+      "timestamp": "1280.8s",
+      "confidence": 0.9708868
+    },
+    "<AGENT ts_1294.17_a>": {
+      "timestamp": "1294.17s",
+      "confidence": 0.96283656
+    },
+    "<AGENT ts_1296.23_a>": {
+      "timestamp": "1296.23s",
+      "confidence": 0.866121
+    },
+    "<CUSTOMER ts_21.2_c>": {
+      "timestamp": "21.2s",
+      "confidence": 0.9954188
+    },
+    "<CUSTOMER ts_24.84_c>": {
+      "timestamp": "24.84s",
+      "confidence": 0.95754033
+    },
+    "<CUSTOMER ts_45.52_c>": {
+      "timestamp": "45.52s",
+      "confidence": 0.74359787
+    },
+    "<CUSTOMER ts_54.37_c>": {
+      "timestamp": "54.37s",
+      "confidence": 0.8252809
+    },
+    "<CUSTOMER ts_57.74_c>": {
+      "timestamp": "57.74s",
+      "confidence": 0.49501386
+    },
+    "<CUSTOMER ts_61.54_c>": {
+      "timestamp": "61.54s",
+      "confidence": 0.9350388
+    },
+    "<CUSTOMER ts_64.13_c>": {
+      "timestamp": "64.13s",
+      "confidence": 0.8203564
+    },
+    "<CUSTOMER ts_72.79_c>": {
+      "timestamp": "72.79s",
+      "confidence": 0.72998065
+    },
+    "<CUSTOMER ts_81.6_c>": {
+      "timestamp": "81.6s",
+      "confidence": 0.9089753
+    },
+    "<CUSTOMER ts_93.79_c>": {
+      "timestamp": "93.79s",
+      "confidence": 0.99038905
+    },
+    "<CUSTOMER ts_102.3_c>": {
+      "timestamp": "102.3s",
+      "confidence": 0.52597606
+    },
+    "<CUSTOMER ts_117.61_c>": {
+      "timestamp": "117.61s",
+      "confidence": 0.96908563
+    },
+    "<CUSTOMER ts_119.4_c>": {
+      "timestamp": "119.4s",
+      "confidence": 0.63524365
+    },
+    "<CUSTOMER ts_140.4_c>": {
+      "timestamp": "140.4s",
+      "confidence": 0.93659693
+    },
+    "<CUSTOMER ts_146.25_c>": {
+      "timestamp": "146.25s",
+      "confidence": 0.97439545
+    },
+    "<CUSTOMER ts_156.69_c>": {
+      "timestamp": "156.69s",
+      "confidence": 0.3165314
+    },
+    "<CUSTOMER ts_170.06_c>": {
+      "timestamp": "170.06s",
+      "confidence": 0.9462591
+    },
+    "<CUSTOMER ts_175.55_c>": {
+      "timestamp": "175.55s",
+      "confidence": 0.8529336
+    },
+    "<CUSTOMER ts_194.82_c>": {
+      "timestamp": "194.82s",
+      "confidence": 0.86903125
+    },
+    "<CUSTOMER ts_199.13_c>": {
+      "timestamp": "199.13s",
+      "confidence": 0.78559625
+    },
+    "<CUSTOMER ts_201.28_c>": {
+      "timestamp": "201.28s",
+      "confidence": 0.88213634
+    },
+    "<CUSTOMER ts_212.21_c>": {
+      "timestamp": "212.21s",
+      "confidence": 0.8985473
+    },
+    "<CUSTOMER ts_217.83_c>": {
+      "timestamp": "217.83s",
+      "confidence": 0.8394157
+    },
+    "<CUSTOMER ts_301.8_c>": {
+      "timestamp": "301.8s",
+      "confidence": 0.97912467
+    },
+    "<CUSTOMER ts_311.4_c>": {
+      "timestamp": "311.4s",
+      "confidence": 0.9360817
+    },
+    "<CUSTOMER ts_314.41_c>": {
+      "timestamp": "314.41s",
+      "confidence": 0.79641736
+    },
+    "<CUSTOMER ts_318.42_c>": {
+      "timestamp": "318.42s",
+      "confidence": 0.74156636
+    },
+    "<CUSTOMER ts_327.92_c>": {
+      "timestamp": "327.92s",
+      "confidence": 0.9680484
+    },
+    "<CUSTOMER ts_342.77_c>": {
+      "timestamp": "342.77s",
+      "confidence": 0.9464813
+    },
+    "<CUSTOMER ts_351.68_c>": {
+      "timestamp": "351.68s",
+      "confidence": 0.944041
+    },
+    "<CUSTOMER ts_372.78_c>": {
+      "timestamp": "372.78s",
+      "confidence": 0.95651996
+    },
+    "<CUSTOMER ts_383.02_c>": {
+      "timestamp": "383.02s",
+      "confidence": 0.25925934
+    },
+    "<CUSTOMER ts_1027.19_c>": {
+      "timestamp": "1027.19s",
+      "confidence": 0.98324156
+    },
+    "<CUSTOMER ts_1037.61_c>": {
+      "timestamp": "1037.61s",
+      "confidence": 0.9148337
+    },
+    "<CUSTOMER ts_1098.42_c>": {
+      "timestamp": "1098.42s",
+      "confidence": 0.93822163
+    },
+    "<CUSTOMER ts_1105.06_c>": {
+      "timestamp": "1105.06s",
+      "confidence": 0.9194223
+    },
+    "<CUSTOMER ts_1107.05_c>": {
+      "timestamp": "1107.05s",
+      "confidence": 0.39537358
+    },
+    "<CUSTOMER ts_1109.02_c>": {
+      "timestamp": "1109.02s",
+      "confidence": 0.97493106
+    },
+    "<CUSTOMER ts_1116.01_c>": {
+      "timestamp": "1116.01s",
+      "confidence": 0.39256874
+    },
+    "<CUSTOMER ts_1121.54_c>": {
+      "timestamp": "1121.54s",
+      "confidence": 0.5404501
+    },
+    "<CUSTOMER ts_1168.5_c>": {
+      "timestamp": "1168.5s",
+      "confidence": 0.87862486
+    },
+    "<CUSTOMER ts_1175.36_c>": {
+      "timestamp": "1175.36s",
+      "confidence": 0.47571248
+    },
+    "<CUSTOMER ts_1179.08_c>": {
+      "timestamp": "1179.08s",
+      "confidence": 0.997068
+    },
+    "<CUSTOMER ts_1226.74_c>": {
+      "timestamp": "1226.74s",
+      "confidence": 0.18262899
+    },
+    "<CUSTOMER ts_1229.8_c>": {
+      "timestamp": "1229.8s",
+      "confidence": 0.5859537
+    },
+    "<CUSTOMER ts_1245.0_c>": {
+      "timestamp": "1245.0s",
+      "confidence": 0.96560895
+    }
+  }
+}

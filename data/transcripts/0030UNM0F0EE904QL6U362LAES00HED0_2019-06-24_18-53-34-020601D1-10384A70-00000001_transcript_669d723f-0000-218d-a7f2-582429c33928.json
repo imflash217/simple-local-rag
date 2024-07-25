@@ -1,0 +1,1588 @@
+{
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "transcript": "good afternoon my name is Kara Godsey how can I help you today",
+                    "confidence": 0.8537012
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "7.120s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " sure give me just a moment here's take a look I see you've already entered in the social and date of birth so we're good there um just as authentication question can you tell me the name of the institutions or employers that he has plans with here",
+                    "confidence": 0.92504525
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "68.120s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 1,
+            "resultEndOffset": "70.250s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "lovers are",
+                    "confidence": 0.59919053
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "79.170s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " what we call there we go",
+                    "confidence": 0.81747013
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "87.050s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " all right that works so let's take a look here all right so I do see on file a power of attorney for Marianne",
+                    "confidence": 0.9563393
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "97.670s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " perfect",
+                    "confidence": 0.76908576
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "101.910s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " all right so miss",
+                    "confidence": 0.76173615
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "103.820s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " this Marian real quick here if you could just verify your address please",
+                    "confidence": 0.83867514
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "107.790s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " okay sure",
+                    "confidence": 0.93945193
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "129.820s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " we have all right perfect thank you and then I do have your permission to speak with Josh on the phone call",
+                    "confidence": 0.96640056
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "152.440s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 1,
+            "resultEndOffset": "164.120s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "Ed",
+                    "confidence": 0.15471968
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "167.140s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " no he don't have a login",
+                    "confidence": 0.5942065
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "241.750s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 1,
+            "resultEndOffset": "243.320s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "hey",
+                    "confidence": 0.6956226
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "245.540s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " no uh",
+                    "confidence": 0.83424723
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "266.480s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " all right let's take a look here I'm going to pull up the call history and see if they",
+                    "confidence": 0.92198545
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "280.680s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " see what they've done on that",
+                    "confidence": 0.97394395
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "283.060s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " right gotcha",
+                    "confidence": 0.4563497
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "299.140s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " gotcha I'll tell you what let me place you on hold um do a little bit of digging see what I can find out um it might be 4 or 5 minutes is that okay",
+                    "confidence": 0.9355399
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "318.080s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "okay perfect give me just a few moments here I'll see what I can find out for you okay",
+                    "confidence": 0.9261893
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "323.210s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " yeah it's Cara",
+                    "confidence": 0.8948849
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "325.910s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " Godsey",
+                    "confidence": 0.27846578
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "327.820s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " all right give me just a few moments sure",
+                    "confidence": 0.89884347
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "330.920s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "hey there so with me",
+                    "confidence": 0.8609966
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "737.100s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " all right my apologies took a little longer than I was expecting there uh I spoke with somebody at our national support line they said there's no way to",
+                    "confidence": 0.94622177
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "746.930s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " reissue the check of the rollover if it's gone out as a distribution um she",
+                    "confidence": 0.9160863
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "751.610s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " did mention the possibility of a 60-day rollover",
+                    "confidence": 0.7538314
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "756.240s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " and so I mean that might be 1 possibly but because the forms were signed off on there um",
+                    "confidence": 0.88404876
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "766.590s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "bye Mr caller",
+                    "confidence": 0.6662213
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "820.370s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " well we we have",
+                    "confidence": 0.67418855
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "854.940s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " access",
+                    "confidence": 0.05786757
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "856.650s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " gotcha",
+                    "confidence": 0.47321638
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "859.440s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " okay and I'm not aware of a way to do that since the uh the form's already signed off on by the participant there I don't know that they'll give us the option to do that",
+                    "confidence": 0.9118831
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "884.840s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " is the issue there",
+                    "confidence": 0.90545857
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "886.790s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 1,
+            "resultEndOffset": "888.200s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 1,
+            "resultEndOffset": "893.950s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "like what was that",
+                    "confidence": 0.9487834
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "895.850s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " right but Mr caller had Mr callers",
+                    "confidence": 0.6595904
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "904.320s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " signed off on him there so",
+                    "confidence": 0.76997167
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "907.140s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " wow",
+                    "confidence": 0.60845697
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "935.410s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " I'm sorry I just I can't make that change there we you know we do like servant to review the forms before they sign them and submit them there and I know that it was wrong that",
+                    "confidence": 0.8985938
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "944.520s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " um he had checked the wrong box there but",
+                    "confidence": 0.85944325
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "947.840s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " rossion",
+                    "confidence": 0.2179787
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "956.120s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " mhm",
+                    "confidence": 0.6107933
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "958.010s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 1,
+            "resultEndOffset": "964.140s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 1,
+            "resultEndOffset": "967.230s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "sure",
+                    "confidence": 0.19462195
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "970.750s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " um let me think about it",
+                    "confidence": 0.62534803
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "990.040s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " so",
+                    "confidence": 0.10924558
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "1005.820s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " we'll tell you what let me place you on hold again and I apologize because I know that whole music is terrible um let's see if I can track down somebody who can escalate it um now it might be a little bit more of a hold um sometimes on a Monday it's it's kind of difficult to track them down but do you mind holding while I look for someone",
+                    "confidence": 0.9615675
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "1041.650s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "sure all right give me a few moments here I'll check in periodically um again maybe in for a little bit of a hold um but we'll see what we can do okay",
+                    "confidence": 0.92602396
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "1052.450s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " all right thanks",
+                    "confidence": 0.95386887
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "1054.110s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 1,
+            "resultEndOffset": "1056.270s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 1,
+            "resultEndOffset": "1057.200s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "hey there just checking in let you know I did not forget about you I'm still trying to track somebody down for you okay",
+                    "confidence": 0.9597466
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "1420.460s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " no problem I'll be back here shortly thank you",
+                    "confidence": 0.98801327
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "1424.770s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "is everybody still with me",
+                    "confidence": 0.87506104
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "1842.900s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " great thank you so much for holding I do have Sean Montgomery on the line he's going to take a look at it for you okay",
+                    "confidence": 0.9550218
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "1849.260s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " all right thanks",
+                    "confidence": 0.917175
+                }
+            ],
+            "channelTag": 1,
+            "resultEndOffset": "1851.570s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 1,
+            "resultEndOffset": "1907.710s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 2,
+            "resultEndOffset": "2.670s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 2,
+            "resultEndOffset": "3.470s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "good afternoon Carrara my name is Josh Greenwald I'm a certified financial planner and on the phone with us I have Pete Galer and Pete's mother uh Marianne Galer and we're calling because they're uh MaryAnn's husband uh Pete's father has an account",
+                    "confidence": 0.84599704
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "27.720s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " TIAA um he is currently uh experiencing some dementia and we had recently submitted uh on June 14th a durable power of attorney um document so we wanted to see if that was received and booked into the account so that we could um ask a couple questions that um that are going on",
+                    "confidence": 0.97828263
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "55.580s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " hmm well I think there are multiple uh like 5 2 others there's 5 5 5 5 separate plans so I guess",
+                    "confidence": 0.78455204
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "78.040s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "let's see 1 was University W Howard University Virginia University",
+                    "confidence": 0.83063376
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "83.220s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " uh George Washington uh Howard so yeah there's several",
+                    "confidence": 0.92340016
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "89.160s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " great okay yeah Marian's on the phone with us I am here yeah I did",
+                    "confidence": 0.8067461
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "103.940s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " it's a conference call so I'm not sure if she can hear us great Marianne she uh the representative is asking if you could please tell her your address",
+                    "confidence": 0.90111136
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "121.260s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " give her glasses",
+                    "confidence": 0.6236586
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "128.680s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " thank you for 1 2017 Annapolis Maryland",
+                    "confidence": 0.6669485
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "140.280s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " 21",
+                    "confidence": 0.75632155
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "142.680s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " 403",
+                    "confidence": 0.1329122
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "145.020s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " Dash 3695",
+                    "confidence": 0.14821514
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "147.760s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " definitely yes",
+                    "confidence": 0.5857324
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "154.190s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "um so Mr Galler uh herb Galler is",
+                    "confidence": 0.6776732
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "163.540s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " uh",
+                    "confidence": 0.9750637
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "164.750s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " at a at a point where he's experiencing some um heavy medical expenses so we're we're at the point where um Marianne and her son Pete are wanting to have access to the funds um so we were told that the the most aggressive withdrawal strategy or transfer strategy would be to engage in the the sort of the lifetime annuity payments which is still 9 or ten years or something to that regard um because they had already pulled out their required minimum distribution earlier this year um we were looking to just really roll have the first portion or have this done as as a rollover where it goes into their brokerage account their Ira accounts where they have a little bit more control over pulling the money out as needed",
+                    "confidence": 0.9431591
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "218.520s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " but uh when the forms were I guess prepared and when they processed it they issued um checks rather than a rollover so taxes were withheld um from it so we were looking to either have new new checks",
+                    "confidence": 0.97775865
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "237.350s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "issued um",
+                    "confidence": 0.6949517
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "239.480s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " to to sort of um replenish them for the taxes that were withheld or maybe you know void out the checks that were sent um because they have not been cashed yet and issued new checks for the the full amount rather than uh the the the withholding that was done I'm sorry and the last representative we spoke with was going to go back and check I think his name was Andrew was going to go back and check the phone conversation because we have a feeling that it was it was entered in correctly by him when he sent the paperwork as they pay off and not a rollover",
+                    "confidence": 0.93477243
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "275.770s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " yeah that's yeah Anthony Anthony Anthony Rossi was the last person we spoke to and to to Pete's Point yeah that was that was 1 of the things that he offered to us as a solution is to go back and sort of check the call history",
+                    "confidence": 0.91596484
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "297.310s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " and determine um you know if in fact it was just sort of a misunderstanding between what we were communicating in the way the forms were prepared for the dollars when they were sent",
+                    "confidence": 0.9453345
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "309.450s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "yes yes",
+                    "confidence": 0.8350439
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "320.870s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " okay and what what is your name again I'm sorry",
+                    "confidence": 0.9295958
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "325.070s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " okay",
+                    "confidence": 0.9453392
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "327.640s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " okay all right thank you all right yep",
+                    "confidence": 0.7339715
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "331.610s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 2,
+            "resultEndOffset": "736.120s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "yes here yeah we're all still here",
+                    "confidence": 0.9371868
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "740.220s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " we're we're familiar I'm familiar",
+                    "confidence": 0.92856276
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "759.870s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " yeah I mean the the issue really is just the the the tax issue",
+                    "confidence": 0.9124843
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "771.460s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "um you know because currently I mean that we have the checks um but taxes were withheld and you know for a rollover it's not a taxable event so is there a way to get another round of checks issued to compensate or to um you know sort of work out the tax issue that was withheld as we have to put the balance in to compensate for to put in the account correct Josh correct yeah as Joe we we spoke to this issue with their accountant and it was just sort of walking us through different options but his hope and our hope is that you know TIAA can somehow someway either you know cancel and reissue or issue new checks to account for what was withheld um but they didn't want withhold withheld",
+                    "confidence": 0.898501
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "873.260s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " okay well what what are our options at this point",
+                    "confidence": 0.95772964
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "888.820s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " the representative",
+                    "confidence": 0.7447579
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "894.120s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "I said the forms were filled out by the representative",
+                    "confidence": 0.7973651
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "899.960s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " at TIAA got them in time",
+                    "confidence": 0.41022405
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "904.030s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " correct but we didn't fill the forms out that was filled out on your end so that's what concerns me is if they were filled out incorrectly in the wrong box was checked",
+                    "confidence": 0.9221133
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "916.300s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " I didn't read to them I got them from Tia got them from Josh presented them to my dad and he signed them",
+                    "confidence": 0.8141424
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "923.050s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " so it just seems like it wasn't it wasn't filled out in the correct manner that we wanted it to and now we're being penalized for it",
+                    "confidence": 0.8924648
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "932.710s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " yeah I mean I swear you the previous representative that we spoke to about this issue uh his name is Anthony Rossi was this sort of RSSI he was saying like there's more options you know that you can go back and sort of check the recording from the initial call and he was saying that if it was an error on on their end we can you know make make it right or you know talk about just you know figure out ways to to help uh the the clients um for you know we don't want to expose them to taxes that they shouldn't have to pay",
+                    "confidence": 0.9328867
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "983.620s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "it's already gonna go within our institution if you know if we if there was a misunderstanding and something was issued we have the ability to cancel out checks and issue new checks so I'm sure you guys have that same ability",
+                    "confidence": 0.91815513
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "1002.050s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " um and I don't know procedurally what needs to be done but I'm sure there's something that can be done so whether it's you or you know the an operations person or you know a manager just has more experience or something just you know we want to I guess",
+                    "confidence": 0.95246404
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "1016.520s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " see what we need to do to get this resolved for what's in the best interest of Mr Galler here in his family",
+                    "confidence": 0.9258285
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "1023.750s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " yeah yeah we need to get the solution",
+                    "confidence": 0.5562882
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "1044.740s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " okay",
+                    "confidence": 0.68855053
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "1053.540s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " jeez",
+                    "confidence": 0.14415674
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "1056.720s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "it's",
+                    "confidence": 0.20175034
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "1416.540s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " okay thank you",
+                    "confidence": 0.9296599
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "1421.120s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 2,
+            "resultEndOffset": "1473.720s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 2,
+            "resultEndOffset": "1477.740s",
+            "languageCode": "en-us"
+        },
+        {
+            "channelTag": 2,
+            "resultEndOffset": "1842.120s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "yes we're here we're",
+                    "confidence": 0.9155632
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "1898.290s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": " thank you okay thank you",
+                    "confidence": 0.9751816
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "1903.730s",
+            "languageCode": "en-us"
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "hello my name once again is Sean macgomery I do handle escalated",
+                    "confidence": 0.8361912
+                }
+            ],
+            "channelTag": 2,
+            "resultEndOffset": "1907.010s",
+            "languageCode": "en-us"
+        }
+    ],
+    "transcript_agent": "<AGENT ts_7.12_a>: good afternoon my name is Roy Mary how can I help you 4331-79-19\n\n<AGENT ts_68.12_a>:  sure give me just a moment here's take a look I see you've already entered in the social and date of birth so we're good there um just as authentication question can you tell me the name of the institutions or employers that he has plans with here\n\n<AGENT ts_79.17_a>: lovers are\n\n<AGENT ts_87.05_a>:  what we call there we go\n\n<AGENT ts_97.67_a>:  all right that works so let's take a look here all right so I do see on file a power of attorney for Roy\n\n<AGENT ts_101.91_a>:  perfect\n\n<AGENT ts_103.82_a>:  all right so miss\n\n<AGENT ts_107.79_a>:  this Roy real quick here if you could just verify your address please\n\n<AGENT ts_129.82_a>:  okay sure\n\n<AGENT ts_152.44_a>:  we have all right perfect thank you and then I do have your permission to speak with Roy on the phone call\n\n<AGENT ts_167.14_a>: Ed\n\n<AGENT ts_241.75_a>:  no he don't have a login\n\n<AGENT ts_245.54_a>: hey\n\n<AGENT ts_266.48_a>:  no uh\n\n<AGENT ts_280.68_a>:  all right let's take a look here I'm going to pull up the call history and see if they\n\n<AGENT ts_283.06_a>:  see what they've done on that\n\n<AGENT ts_299.14_a>:  right gotcha\n\n<AGENT ts_318.08_a>:  gotcha I'll tell you what let me place you on hold um do a little bit of digging see what I can find out um it might be 7 or 6 minutes is that okay\n\n<AGENT ts_323.21_a>: okay perfect give me just a few moments here I'll see what I can find out for you okay\n\n<AGENT ts_325.91_a>:  yeah it's Roy\n\n<AGENT ts_327.82_a>:  Mary\n\n<AGENT ts_330.92_a>:  all right give me just a few moments sure\n\n<AGENT ts_737.1_a>: hey there so with me\n\n<AGENT ts_746.93_a>:  all right my apologies took a little longer than I was expecting there uh I spoke with somebody at our national support line they said there's no way to\n\n<AGENT ts_751.61_a>:  reissue the check of the rollover if it's gone out as a distribution um she\n\n<AGENT ts_756.24_a>:  did mention the possibility of a 90-day rollover\n\n<AGENT ts_766.59_a>:  and so I mean that might be 0 possibly but because the forms were signed off on there um\n\n<AGENT ts_820.37_a>: bye Mr caller\n\n<AGENT ts_854.94_a>:  well we we have\n\n<AGENT ts_856.65_a>:  access\n\n<AGENT ts_859.44_a>:  gotcha\n\n<AGENT ts_884.84_a>:  okay and I'm not aware of a way to do that since the uh the form's already signed off on by the participant there I don't know that they'll give us the option to do that\n\n<AGENT ts_886.79_a>:  is the issue there\n\n<AGENT ts_895.85_a>: like what was that\n\n<AGENT ts_904.32_a>:  right but Mr caller had Mr callers\n\n<AGENT ts_907.14_a>:  signed off on him there so\n\n<AGENT ts_935.41_a>:  wow\n\n<AGENT ts_944.52_a>:  I'm sorry I just I can't make that change there we you know we do like servant to review the forms before they sign them and submit them there and I know that it was wrong that\n\n<AGENT ts_947.84_a>:  um he had checked the wrong box there but\n\n<AGENT ts_956.12_a>:  rossion\n\n<AGENT ts_958.01_a>:  mhm\n\n<AGENT ts_970.75_a>: sure\n\n<AGENT ts_990.04_a>:  um let me think about it\n\n<AGENT ts_1005.82_a>:  so\n\n<AGENT ts_1041.65_a>:  we'll tell you what let me place you on hold again and I apologize because I know that whole music is terrible um let's see if I can track down somebody who can escalate it um now it might be a little bit more of a hold um sometimes on a 7828-80-07 it's it's kind of difficult to track them down but do you mind holding while I look for someone\n\n<AGENT ts_1052.45_a>: sure all right give me a few moments here I'll check in periodically um again maybe in for a little bit of a hold um but we'll see what we can do okay\n\n<AGENT ts_1054.11_a>:  all right thanks\n\n<AGENT ts_1420.46_a>: hey there just checking in let you know I did not forget about you I'm still trying to track somebody down for you okay\n\n<AGENT ts_1424.77_a>:  no problem I'll be back here shortly thank you\n\n<AGENT ts_1842.9_a>: is everybody still with me\n\n<AGENT ts_1849.26_a>:  great thank you so much for holding I do have Roy Mary on the line he's going to take a look at it for you okay\n\n<AGENT ts_1851.57_a>:  all right thanks",
+    "transcript_customer": "<CUSTOMER ts_27.72_c>: good afternoon Carrara my name is Luis Charles I'm a certified financial planner and on the phone with us I have Luis Charles and Pete's mother uh Luis Charles and we're calling because they're uh MaryAnn's husband uh Pete's father has an account\n\n<CUSTOMER ts_55.58_c>:  TIAA um he is currently uh experiencing some dementia and we had recently submitted uh on 2233-59-79 a durable power of attorney um document so we wanted to see if that was received and booked into the account so that we could um ask a couple questions that um that are going on\n\n<CUSTOMER ts_78.04_c>:  hmm well I think there are multiple uh like 5 4 others there's 6 0 5 4 separate plans so I guess\n\n<CUSTOMER ts_83.22_c>: let's see 0 was University W Luis University Alabama University\n\n<CUSTOMER ts_89.16_c>:  uh Luis Alabama uh Luis so yeah there's several\n\n<CUSTOMER ts_103.94_c>:  great okay yeah Marian's on the phone with us I am here yeah I did\n\n<CUSTOMER ts_121.26_c>:  it's a conference call so I'm not sure if she can hear us great Luis she uh the representative is asking if you could please tell her your address\n\n<CUSTOMER ts_128.68_c>:  give her glasses\n\n<CUSTOMER ts_140.28_c>:  thank you for 4 9179 Annapolis Alabama\n\n<CUSTOMER ts_142.68_c>:  42\n\n<CUSTOMER ts_145.02_c>:  637\n\n<CUSTOMER ts_147.76_c>:  Dash 0288\n\n<CUSTOMER ts_154.19_c>:  definitely yes\n\n<CUSTOMER ts_163.54_c>: um so Mr Charles uh Luis Charles is\n\n<CUSTOMER ts_164.75_c>:  uh\n\n<CUSTOMER ts_218.52_c>:  at a at a point where he's experiencing some um heavy medical expenses so we're we're at the point where um Luis and her son Luis are wanting to have access to the funds um so we were told that the the most aggressive withdrawal strategy or transfer strategy would be to engage in the the sort of the lifetime annuity payments which is still 0 or ten years or something to that regard um because they had already pulled out their required minimum distribution earlier this year um we were looking to just really roll have the first portion or have this done as as a rollover where it goes into their brokerage account their Ira accounts where they have a little bit more control over pulling the money out as needed\n\n<CUSTOMER ts_237.35_c>:  but uh when the forms were I guess prepared and when they processed it they issued um checks rather than a rollover so taxes were withheld um from it so we were looking to either have new new checks\n\n<CUSTOMER ts_239.48_c>: issued um\n\n<CUSTOMER ts_275.77_c>:  to to sort of um replenish them for the taxes that were withheld or maybe you know void out the checks that were sent um because they have not been cashed yet and issued new checks for the the full amount rather than uh the the the withholding that was done I'm sorry and the last representative we spoke with was going to go back and check I think his name was Luis was going to go back and check the phone conversation because we have a feeling that it was it was entered in correctly by him when he sent the paperwork as they pay off and not a rollover\n\n<CUSTOMER ts_297.31_c>:  yeah that's yeah Luis Charles Luis Charles was the last person we spoke to and to to Pete's Point yeah that was that was 6 of the things that he offered to us as a solution is to go back and sort of check the call history\n\n<CUSTOMER ts_309.45_c>:  and determine um you know if in fact it was just sort of a misunderstanding between what we were communicating in the way the forms were prepared for the dollars when they were sent\n\n<CUSTOMER ts_320.87_c>: yes yes\n\n<CUSTOMER ts_325.07_c>:  okay and what what is your name again I'm sorry\n\n<CUSTOMER ts_327.64_c>:  okay\n\n<CUSTOMER ts_331.61_c>:  okay all right thank you all right yep\n\n<CUSTOMER ts_740.22_c>: yes here yeah we're all still here\n\n<CUSTOMER ts_759.87_c>:  we're we're familiar I'm familiar\n\n<CUSTOMER ts_771.46_c>:  yeah I mean the the issue really is just the the the tax issue\n\n<CUSTOMER ts_873.26_c>: um you know because currently I mean that we have the checks um but taxes were withheld and you know for a rollover it's not a taxable event so is there a way to get another round of checks issued to compensate or to um you know sort of work out the tax issue that was withheld as we have to put the balance in to compensate for to put in the account correct Luis correct yeah as Luis we we spoke to this issue with their accountant and it was just sort of walking us through different options but his hope and our hope is that you know TIAA can somehow someway either you know cancel and reissue or issue new checks to account for what was withheld um but they didn't want withhold withheld\n\n<CUSTOMER ts_888.82_c>:  okay well what what are our options at this point\n\n<CUSTOMER ts_894.12_c>:  the representative\n\n<CUSTOMER ts_899.96_c>: I said the forms were filled out by the representative\n\n<CUSTOMER ts_904.03_c>:  at TIAA got them in time\n\n<CUSTOMER ts_916.3_c>:  correct but we didn't fill the forms out that was filled out on your end so that's what concerns me is if they were filled out incorrectly in the wrong box was checked\n\n<CUSTOMER ts_923.05_c>:  I didn't read to them I got them from Tia got them from Luis presented them to my dad and he signed them\n\n<CUSTOMER ts_932.71_c>:  so it just seems like it wasn't it wasn't filled out in the correct manner that we wanted it to and now we're being penalized for it\n\n<CUSTOMER ts_983.62_c>:  yeah I mean I swear you the previous representative that we spoke to about this issue uh his name is Luis Charles was this sort of RSSI he was saying like there's more options you know that you can go back and sort of check the recording from the initial call and he was saying that if it was an error on on their end we can you know make make it right or you know talk about just you know figure out ways to to help uh the the clients um for you know we don't want to expose them to taxes that they shouldn't have to pay\n\n<CUSTOMER ts_1002.05_c>: it's already gonna go within our institution if you know if we if there was a misunderstanding and something was issued we have the ability to cancel out checks and issue new checks so I'm sure you guys have that same ability\n\n<CUSTOMER ts_1016.52_c>:  um and I don't know procedurally what needs to be done but I'm sure there's something that can be done so whether it's you or you know the an operations person or you know a manager just has more experience or something just you know we want to I guess\n\n<CUSTOMER ts_1023.75_c>:  see what we need to do to get this resolved for what's in the best interest of Mr Charles here in his family\n\n<CUSTOMER ts_1044.74_c>:  yeah yeah we need to get the solution\n\n<CUSTOMER ts_1053.54_c>:  okay\n\n<CUSTOMER ts_1056.72_c>:  jeez\n\n<CUSTOMER ts_1416.54_c>: it's\n\n<CUSTOMER ts_1421.12_c>:  okay thank you\n\n<CUSTOMER ts_1898.29_c>: yes we're here we're\n\n<CUSTOMER ts_1903.73_c>:  thank you okay thank you\n\n<CUSTOMER ts_1907.01_c>: hello my name once again is Luis Charles I do handle escalated",
+    "metadata": {
+        "<AGENT ts_7.12_a>": {
+            "timestamp": "7.12s",
+            "confidence": 0.8537012
+        },
+        "<AGENT ts_68.12_a>": {
+            "timestamp": "68.12s",
+            "confidence": 0.92504525
+        },
+        "<AGENT ts_79.17_a>": {
+            "timestamp": "79.17s",
+            "confidence": 0.59919053
+        },
+        "<AGENT ts_87.05_a>": {
+            "timestamp": "87.05s",
+            "confidence": 0.81747013
+        },
+        "<AGENT ts_97.67_a>": {
+            "timestamp": "97.67s",
+            "confidence": 0.9563393
+        },
+        "<AGENT ts_101.91_a>": {
+            "timestamp": "101.91s",
+            "confidence": 0.76908576
+        },
+        "<AGENT ts_103.82_a>": {
+            "timestamp": "103.82s",
+            "confidence": 0.76173615
+        },
+        "<AGENT ts_107.79_a>": {
+            "timestamp": "107.79s",
+            "confidence": 0.83867514
+        },
+        "<AGENT ts_129.82_a>": {
+            "timestamp": "129.82s",
+            "confidence": 0.93945193
+        },
+        "<AGENT ts_152.44_a>": {
+            "timestamp": "152.44s",
+            "confidence": 0.96640056
+        },
+        "<AGENT ts_167.14_a>": {
+            "timestamp": "167.14s",
+            "confidence": 0.15471968
+        },
+        "<AGENT ts_241.75_a>": {
+            "timestamp": "241.75s",
+            "confidence": 0.5942065
+        },
+        "<AGENT ts_245.54_a>": {
+            "timestamp": "245.54s",
+            "confidence": 0.6956226
+        },
+        "<AGENT ts_266.48_a>": {
+            "timestamp": "266.48s",
+            "confidence": 0.83424723
+        },
+        "<AGENT ts_280.68_a>": {
+            "timestamp": "280.68s",
+            "confidence": 0.92198545
+        },
+        "<AGENT ts_283.06_a>": {
+            "timestamp": "283.06s",
+            "confidence": 0.97394395
+        },
+        "<AGENT ts_299.14_a>": {
+            "timestamp": "299.14s",
+            "confidence": 0.4563497
+        },
+        "<AGENT ts_318.08_a>": {
+            "timestamp": "318.08s",
+            "confidence": 0.9355399
+        },
+        "<AGENT ts_323.21_a>": {
+            "timestamp": "323.21s",
+            "confidence": 0.9261893
+        },
+        "<AGENT ts_325.91_a>": {
+            "timestamp": "325.91s",
+            "confidence": 0.8948849
+        },
+        "<AGENT ts_327.82_a>": {
+            "timestamp": "327.82s",
+            "confidence": 0.27846578
+        },
+        "<AGENT ts_330.92_a>": {
+            "timestamp": "330.92s",
+            "confidence": 0.89884347
+        },
+        "<AGENT ts_737.1_a>": {
+            "timestamp": "737.1s",
+            "confidence": 0.8609966
+        },
+        "<AGENT ts_746.93_a>": {
+            "timestamp": "746.93s",
+            "confidence": 0.94622177
+        },
+        "<AGENT ts_751.61_a>": {
+            "timestamp": "751.61s",
+            "confidence": 0.9160863
+        },
+        "<AGENT ts_756.24_a>": {
+            "timestamp": "756.24s",
+            "confidence": 0.7538314
+        },
+        "<AGENT ts_766.59_a>": {
+            "timestamp": "766.59s",
+            "confidence": 0.88404876
+        },
+        "<AGENT ts_820.37_a>": {
+            "timestamp": "820.37s",
+            "confidence": 0.6662213
+        },
+        "<AGENT ts_854.94_a>": {
+            "timestamp": "854.94s",
+            "confidence": 0.67418855
+        },
+        "<AGENT ts_856.65_a>": {
+            "timestamp": "856.65s",
+            "confidence": 0.05786757
+        },
+        "<AGENT ts_859.44_a>": {
+            "timestamp": "859.44s",
+            "confidence": 0.47321638
+        },
+        "<AGENT ts_884.84_a>": {
+            "timestamp": "884.84s",
+            "confidence": 0.9118831
+        },
+        "<AGENT ts_886.79_a>": {
+            "timestamp": "886.79s",
+            "confidence": 0.90545857
+        },
+        "<AGENT ts_895.85_a>": {
+            "timestamp": "895.85s",
+            "confidence": 0.9487834
+        },
+        "<AGENT ts_904.32_a>": {
+            "timestamp": "904.32s",
+            "confidence": 0.6595904
+        },
+        "<AGENT ts_907.14_a>": {
+            "timestamp": "907.14s",
+            "confidence": 0.76997167
+        },
+        "<AGENT ts_935.41_a>": {
+            "timestamp": "935.41s",
+            "confidence": 0.60845697
+        },
+        "<AGENT ts_944.52_a>": {
+            "timestamp": "944.52s",
+            "confidence": 0.8985938
+        },
+        "<AGENT ts_947.84_a>": {
+            "timestamp": "947.84s",
+            "confidence": 0.85944325
+        },
+        "<AGENT ts_956.12_a>": {
+            "timestamp": "956.12s",
+            "confidence": 0.2179787
+        },
+        "<AGENT ts_958.01_a>": {
+            "timestamp": "958.01s",
+            "confidence": 0.6107933
+        },
+        "<AGENT ts_970.75_a>": {
+            "timestamp": "970.75s",
+            "confidence": 0.19462195
+        },
+        "<AGENT ts_990.04_a>": {
+            "timestamp": "990.04s",
+            "confidence": 0.62534803
+        },
+        "<AGENT ts_1005.82_a>": {
+            "timestamp": "1005.82s",
+            "confidence": 0.10924558
+        },
+        "<AGENT ts_1041.65_a>": {
+            "timestamp": "1041.65s",
+            "confidence": 0.9615675
+        },
+        "<AGENT ts_1052.45_a>": {
+            "timestamp": "1052.45s",
+            "confidence": 0.92602396
+        },
+        "<AGENT ts_1054.11_a>": {
+            "timestamp": "1054.11s",
+            "confidence": 0.95386887
+        },
+        "<AGENT ts_1420.46_a>": {
+            "timestamp": "1420.46s",
+            "confidence": 0.9597466
+        },
+        "<AGENT ts_1424.77_a>": {
+            "timestamp": "1424.77s",
+            "confidence": 0.98801327
+        },
+        "<AGENT ts_1842.9_a>": {
+            "timestamp": "1842.9s",
+            "confidence": 0.87506104
+        },
+        "<AGENT ts_1849.26_a>": {
+            "timestamp": "1849.26s",
+            "confidence": 0.9550218
+        },
+        "<AGENT ts_1851.57_a>": {
+            "timestamp": "1851.57s",
+            "confidence": 0.917175
+        },
+        "<CUSTOMER ts_27.72_c>": {
+            "timestamp": "27.72s",
+            "confidence": 0.84599704
+        },
+        "<CUSTOMER ts_55.58_c>": {
+            "timestamp": "55.58s",
+            "confidence": 0.97828263
+        },
+        "<CUSTOMER ts_78.04_c>": {
+            "timestamp": "78.04s",
+            "confidence": 0.78455204
+        },
+        "<CUSTOMER ts_83.22_c>": {
+            "timestamp": "83.22s",
+            "confidence": 0.83063376
+        },
+        "<CUSTOMER ts_89.16_c>": {
+            "timestamp": "89.16s",
+            "confidence": 0.92340016
+        },
+        "<CUSTOMER ts_103.94_c>": {
+            "timestamp": "103.94s",
+            "confidence": 0.8067461
+        },
+        "<CUSTOMER ts_121.26_c>": {
+            "timestamp": "121.26s",
+            "confidence": 0.90111136
+        },
+        "<CUSTOMER ts_128.68_c>": {
+            "timestamp": "128.68s",
+            "confidence": 0.6236586
+        },
+        "<CUSTOMER ts_140.28_c>": {
+            "timestamp": "140.28s",
+            "confidence": 0.6669485
+        },
+        "<CUSTOMER ts_142.68_c>": {
+            "timestamp": "142.68s",
+            "confidence": 0.75632155
+        },
+        "<CUSTOMER ts_145.02_c>": {
+            "timestamp": "145.02s",
+            "confidence": 0.1329122
+        },
+        "<CUSTOMER ts_147.76_c>": {
+            "timestamp": "147.76s",
+            "confidence": 0.14821514
+        },
+        "<CUSTOMER ts_154.19_c>": {
+            "timestamp": "154.19s",
+            "confidence": 0.5857324
+        },
+        "<CUSTOMER ts_163.54_c>": {
+            "timestamp": "163.54s",
+            "confidence": 0.6776732
+        },
+        "<CUSTOMER ts_164.75_c>": {
+            "timestamp": "164.75s",
+            "confidence": 0.9750637
+        },
+        "<CUSTOMER ts_218.52_c>": {
+            "timestamp": "218.52s",
+            "confidence": 0.9431591
+        },
+        "<CUSTOMER ts_237.35_c>": {
+            "timestamp": "237.35s",
+            "confidence": 0.97775865
+        },
+        "<CUSTOMER ts_239.48_c>": {
+            "timestamp": "239.48s",
+            "confidence": 0.6949517
+        },
+        "<CUSTOMER ts_275.77_c>": {
+            "timestamp": "275.77s",
+            "confidence": 0.93477243
+        },
+        "<CUSTOMER ts_297.31_c>": {
+            "timestamp": "297.31s",
+            "confidence": 0.91596484
+        },
+        "<CUSTOMER ts_309.45_c>": {
+            "timestamp": "309.45s",
+            "confidence": 0.9453345
+        },
+        "<CUSTOMER ts_320.87_c>": {
+            "timestamp": "320.87s",
+            "confidence": 0.8350439
+        },
+        "<CUSTOMER ts_325.07_c>": {
+            "timestamp": "325.07s",
+            "confidence": 0.9295958
+        },
+        "<CUSTOMER ts_327.64_c>": {
+            "timestamp": "327.64s",
+            "confidence": 0.9453392
+        },
+        "<CUSTOMER ts_331.61_c>": {
+            "timestamp": "331.61s",
+            "confidence": 0.7339715
+        },
+        "<CUSTOMER ts_740.22_c>": {
+            "timestamp": "740.22s",
+            "confidence": 0.9371868
+        },
+        "<CUSTOMER ts_759.87_c>": {
+            "timestamp": "759.87s",
+            "confidence": 0.92856276
+        },
+        "<CUSTOMER ts_771.46_c>": {
+            "timestamp": "771.46s",
+            "confidence": 0.9124843
+        },
+        "<CUSTOMER ts_873.26_c>": {
+            "timestamp": "873.26s",
+            "confidence": 0.898501
+        },
+        "<CUSTOMER ts_888.82_c>": {
+            "timestamp": "888.82s",
+            "confidence": 0.95772964
+        },
+        "<CUSTOMER ts_894.12_c>": {
+            "timestamp": "894.12s",
+            "confidence": 0.7447579
+        },
+        "<CUSTOMER ts_899.96_c>": {
+            "timestamp": "899.96s",
+            "confidence": 0.7973651
+        },
+        "<CUSTOMER ts_904.03_c>": {
+            "timestamp": "904.03s",
+            "confidence": 0.41022405
+        },
+        "<CUSTOMER ts_916.3_c>": {
+            "timestamp": "916.3s",
+            "confidence": 0.9221133
+        },
+        "<CUSTOMER ts_923.05_c>": {
+            "timestamp": "923.05s",
+            "confidence": 0.8141424
+        },
+        "<CUSTOMER ts_932.71_c>": {
+            "timestamp": "932.71s",
+            "confidence": 0.8924648
+        },
+        "<CUSTOMER ts_983.62_c>": {
+            "timestamp": "983.62s",
+            "confidence": 0.9328867
+        },
+        "<CUSTOMER ts_1002.05_c>": {
+            "timestamp": "1002.05s",
+            "confidence": 0.91815513
+        },
+        "<CUSTOMER ts_1016.52_c>": {
+            "timestamp": "1016.52s",
+            "confidence": 0.95246404
+        },
+        "<CUSTOMER ts_1023.75_c>": {
+            "timestamp": "1023.75s",
+            "confidence": 0.9258285
+        },
+        "<CUSTOMER ts_1044.74_c>": {
+            "timestamp": "1044.74s",
+            "confidence": 0.5562882
+        },
+        "<CUSTOMER ts_1053.54_c>": {
+            "timestamp": "1053.54s",
+            "confidence": 0.68855053
+        },
+        "<CUSTOMER ts_1056.72_c>": {
+            "timestamp": "1056.72s",
+            "confidence": 0.14415674
+        },
+        "<CUSTOMER ts_1416.54_c>": {
+            "timestamp": "1416.54s",
+            "confidence": 0.20175034
+        },
+        "<CUSTOMER ts_1421.12_c>": {
+            "timestamp": "1421.12s",
+            "confidence": 0.9296599
+        },
+        "<CUSTOMER ts_1898.29_c>": {
+            "timestamp": "1898.29s",
+            "confidence": 0.9155632
+        },
+        "<CUSTOMER ts_1903.73_c>": {
+            "timestamp": "1903.73s",
+            "confidence": 0.9751816
+        },
+        "<CUSTOMER ts_1907.01_c>": {
+            "timestamp": "1907.01s",
+            "confidence": 0.8361912
+        }
+    }
+}

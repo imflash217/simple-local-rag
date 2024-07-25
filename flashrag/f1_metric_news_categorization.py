@@ -1,10 +1,10 @@
 from collections import Counter
+
 import dspy
-from dspy import OpenAI, settings
-from dspy.teleprompt import BootstrapFewShotWithRandomSearch
+from dsp.utils import normalize_text, print_message
+from dspy import ColBERTv2, OpenAI, settings
 from dspy.evaluate.evaluate import Evaluate
-from dspy import ColBERTv2
-from dsp.utils import print_message, normalize_text
+from dspy.teleprompt import BootstrapFewShotWithRandomSearch
 
 
 # Define F1 metric calculation

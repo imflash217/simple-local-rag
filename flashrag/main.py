@@ -4,24 +4,30 @@ import re
 import textwrap
 from time import perf_counter as timer
 
+import dataloader as dl
 import fitz  # load the pymupdf package
 import pandas as pd
 import requests
 import torch
+import utils as ux
 from sentence_transformers import SentenceTransformer, util
 from spacy.lang.en import English
 from tqdm.auto import tqdm
-import utils as ux
-import dataloader as dl
+
 
 if __name__ == "__main__":
-    query = "symptoms of pellagra"  # "macronutrients functions"
+    query = (
+        ux.get_random_query()
+    )  # "symptoms of pellagra"  # "macronutrients functions"
     pdf_path = "human-nutrition-text.pdf"
     embeddings_df_save_path = "text_chunks_and_embeddings_df.csv"
+    llm_model_id = "google/gemma-2b-it"
+    config_use_quantization = False
     num_sentence_chunk_size = 10
     min_token_len_per_chunk = 30
-    pages_and_texts = ux.open_and_read_pdf(pdf_path=pdf_path)
     pages_and_chunks = []
+
+    pages_and_texts = ux.open_and_read_pdf(pdf_path=pdf_path)
 
     # extracting sentences from the text
     nlp = English()
@@ -114,3 +120,29 @@ if __name__ == "__main__":
             f"Text: {ux.print_textwrapped(pages_and_chunks_reloaded[idx]["sentence_chunk"])}"
         )
         print("........" * 10)
+
+    llm_model, tokenizer = ux.get_llm_model(llm_model_id=llm_model_id)
+    print("----" * 10)
+    pprint.pprint(llm_model)
+    print("----" * 10)
+
+    # prompt engineering
+    # user_prompt = query  # "What are macronutrients, and what roles do they play in the human body?"
+
+    ####################
+    context_items = ux.get_context_items(
+        query=query,
+        reference_embeddings=reference_embeddings_reloaded,
+        pages_and_chunks=pages_and_chunks_reloaded,
+    )
+    prompt = ux.prompt_formatter(
+        query=query, context_items=context_items, tokenizer=tokenizer
+    )
+
+    print("===========" * 10)
+    print(prompt)
+
+    model_response = ux.generate_llm_response(
+        prompt=prompt, llm_model=llm_model, tokenizer=tokenizer
+    )
+    print("DONE")
